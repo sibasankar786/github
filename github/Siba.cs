@@ -8,7 +8,7 @@ namespace github
     public class Siba
     {
         string name = "Siba";
-        string name1 = "tarunK";
+        string name1 = "tarun";
         string data = "new data";
     }
 }
