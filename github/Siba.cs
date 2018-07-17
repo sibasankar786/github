@@ -9,6 +9,6 @@ namespace github
     {
         string name = "Siba";
         string name1 = "tarunK";
-        string data="new data"
+        string data = "new data";
     }
 }
