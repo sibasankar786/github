@@ -7,6 +7,6 @@ namespace github
 {
     public class Siba
     {
-        string name = "Sibasankar Das";
+        string name = "Siba";
     }
 }
